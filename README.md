@@ -1,5 +1,23 @@
 # 🏗 Scaffold-ETH 2
 
+## Social Login Integration with Particle Network
+We've enhanced the application by integrating social login functionality through Particle Network. The implementation follows the guidelines provided in the Particle Network documentation:
+
+[Particle Network Documentation for RainbowKit](https://developers.particle.network/docs/rainbowkit) 
+
+Changes Overview
+The modifications are primarily located in the following file:
+
+packages/nextjs/services/web3/wagmiConfig.tsx
+Here, you can review the specific changes made to incorporate the social login feature.
+
+Network and Contract Information
+Network Used: Sepolia
+Smart Contract Address: [0xb8460E2C27f8BEBcD8bC03E54b6FA05092b7ec58](https://sepolia.etherscan.io/address/0xb8460E2C27f8BEBcD8bC03E54b6FA05092b7ec58)
+The smart contract has been deployed to the Sepolia network, and the application's contract and site configurations have been updated accordingly.
+
+# Original Readme:
+
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
   <a href="https://scaffoldeth.io">Website</a>
