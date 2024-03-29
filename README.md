@@ -12,9 +12,10 @@ The modifications are primarily located in the following file:
 
 Here, you can review the specific changes made to incorporate the social login feature.
 
-Network and Contract Information
-Network Used: Sepolia
-Smart Contract Address: [0xb8460E2C27f8BEBcD8bC03E54b6FA05092b7ec58](https://sepolia.etherscan.io/address/0xb8460E2C27f8BEBcD8bC03E54b6FA05092b7ec58)
+Network and Contract Information:
+* Network Used: Sepolia
+* Smart Contract Address: [0xb8460E2C27f8BEBcD8bC03E54b6FA05092b7ec58](https://sepolia.etherscan.io/address/0xb8460E2C27f8BEBcD8bC03E54b6FA05092b7ec58)
+
 The smart contract has been deployed to the Sepolia network, and the application's contract and site configurations have been updated accordingly.
 
 # Original Readme:
