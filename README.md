@@ -8,7 +8,8 @@ We've enhanced the application by integrating social login functionality through
 Changes Overview
 The modifications are primarily located in the following file:
 
-packages/nextjs/services/web3/wagmiConfig.tsx
+[packages/nextjs/services/web3/wagmiConfig.tsx] (https://github.com/JulioMCruz/Scaffold-Eth-2-Particle-Network/blob/a4742ab999df098cd447f7c9e5121d8858df2a41/packages/nextjs/services/web3/wagmiConfig.tsx#L5)
+
 Here, you can review the specific changes made to incorporate the social login feature.
 
 Network and Contract Information
